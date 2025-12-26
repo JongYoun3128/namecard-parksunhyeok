@@ -1,0 +1,132 @@
+{
+    "ko": {
+        "profile": {
+            "company": "POINTGROUND",
+            "title": "지사장",
+            "name": "박순혁",
+            "address": "서울특별시 금천구 벚꽃로 286, 1101호"
+        },
+        "action": {
+            "save": "연락처 저장",
+            "share": "명함 공유",
+            "qr": "QR 코드"
+        }
+    },
+    "en": {
+        "profile": {
+            "company": "POINTGROUND",
+            "title": "Branch Manager",
+            "name": "Park Sunhyeok",
+            "address": "1101, 286 Beotkkot-ro, Geumcheon-gu, Seoul, South Korea"
+        },
+        "action": {
+            "save": "Save Contact",
+            "share": "Share Card",
+            "qr": "QR Code"
+        }
+    },
+    "ja": {
+        "profile": {
+            "company": "POINTGROUND",
+            "title": "支社長",
+            "name": "パク・スンヒョク",
+            "address": "大韓民国 ソウル特別市 衿川区 ベッコッロ286、1101号"
+        },
+        "action": {
+            "save": "連絡先を保存",
+            "share": "名刺を共有",
+            "qr": "QRコード"
+        }
+    },
+    "zh": {
+        "profile": {
+            "company": "POINTGROUND",
+            "title": "分公司经理",
+            "name": "朴顺赫",
+            "address": "韩国 首尔市 衿川区 樱花路286号 1101室"
+        },
+        "action": {
+            "save": "保存联系人",
+            "share": "分享名片",
+            "qr": "二维码"
+        }
+    },
+    "fr": {
+        "profile": {
+            "company": "POINTGROUND",
+            "title": "Directeur de succursale",
+            "name": "Park Sunhyeok",
+            "address": "286 Beotkkot-ro, bureau 1101, Geumcheon-gu, Séoul, Corée du Sud"
+        },
+        "action": {
+            "save": "Enregistrer le contact",
+            "share": "Partager la carte",
+            "qr": "Code QR"
+        }
+    },
+    "de": {
+        "profile": {
+            "company": "POINTGROUND",
+            "title": "Niederlassungsleiter",
+            "name": "Park Sunhyeok",
+            "address": "Beotkkot-ro 286, Raum 1101, Geumcheon-gu, Seoul, Südkorea"
+        },
+        "action": {
+            "save": "Kontakt speichern",
+            "share": "Visitenkarte teilen",
+            "qr": "QR-Code"
+        }
+    },
+    "es": {
+        "profile": {
+            "company": "POINTGROUND",
+            "title": "Gerente de Sucursal",
+            "name": "Park Sunhyeok",
+            "address": "286 Beotkkot-ro, Oficina 1101, Geumcheon-gu, Seúl, Corea del Sur"
+        },
+        "action": {
+            "save": "Guardar contacto",
+            "share": "Compartir tarjeta",
+            "qr": "Código QR"
+        }
+    },
+    "it": {
+        "profile": {
+            "company": "POINTGROUND",
+            "title": "Responsabile di filiale",
+            "name": "Park Sunhyeok",
+            "address": "Beotkkot-ro 286, Ufficio 1101, Geumcheon-gu, Seoul, Corea del Sud"
+        },
+        "action": {
+            "save": "Salva contatto",
+            "share": "Condividi biglietto",
+            "qr": "Codice QR"
+        }
+    },
+    "pt": {
+        "profile": {
+            "company": "POINTGROUND",
+            "title": "Gerente de Filial",
+            "name": "Park Sunhyeok",
+            "address": "286 Beotkkot-ro, Sala 1101, Geumcheon-gu, Seul, Coreia do Sul"
+        },
+        "action": {
+            "save": "Salvar contato",
+            "share": "Compartilhar cartão",
+            "qr": "Código QR"
+        }
+    },
+    "ru": {
+        "profile": {
+            "company": "POINTGROUND",
+            "title": "Руководитель филиала",
+            "name": "Пак Сунхёк",
+            "address": "Республика Корея, Сеул, Кымчхон-гу, Бётккот-ро 286, офис 1101"
+        },
+        "action": {
+            "save": "Сохранить контакт",
+            "share": "Поделиться визиткой",
+            "qr": "QR-код"
+        }
+    }
+}
